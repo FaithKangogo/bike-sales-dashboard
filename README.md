@@ -2,7 +2,7 @@
 
 Welcome! This is my first portfolio project, where I used Microsoft Excel to analyze a bike sales dataset and build an interactive dashboard.
 
-🔗 **Full Walkthrough & Insights → [Read the full article on Medium]([https://medium.com/@faithkangogo](https://medium.com/@faithkangogo/data-driven-insights-into-bike-sales-a-dashboard-for-consumer-trends-purchase-behavior-fc026efcb7ac))**
+🔗 **Full Walkthrough & Insights → [Read the full article on Medium]([https://medium.com/@faithkangogo/data-driven-insights-into-bike-sales-a-dashboard-for-consumer-trends-purchase-behavior-fc026efcb7ac])**
 
 ---
 
