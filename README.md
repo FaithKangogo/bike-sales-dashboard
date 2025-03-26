@@ -2,7 +2,7 @@
 
 Welcome! This is my first portfolio project, where I used Microsoft Excel to analyze a bike sales dataset and build an interactive dashboard.
 
-🔗 **Full Walkthrough & Insights → [Read the full article on Medium](https://medium.com/@faithkangogo)**
+🔗 **Full Walkthrough & Insights → [Read the full article on Medium]([https://medium.com/@faithkangogo](https://medium.com/@faithkangogo/data-driven-insights-into-bike-sales-a-dashboard-for-consumer-trends-purchase-behavior-fc026efcb7ac))**
 
 ---
 
@@ -13,7 +13,6 @@ Using Excel, I:
 - Built charts to visualize gender, income, commute distance, and age-related purchase behaviors
 - Developed an interactive dashboard with slicers for deeper exploration
 
----
 
 ## 💡 Key Skills Demonstrated
 - Data Cleaning & Transformation
@@ -21,12 +20,10 @@ Using Excel, I:
 - Chart Formatting & Visualization
 - Interactive Dashboard Development with Slicers
 
----
 
 ## 📂 Files Included
 - `Bike_Sales_Dashboard.xlsx` – Final Excel file with pivot tables, charts, and dashboard
 
----
 
 ## 📌 What's Next
 I’m actively working on projects using:
@@ -37,5 +34,4 @@ I’m actively working on projects using:
 
 Stay tuned!
 
----
 **📬 Feedback is always welcome!**
